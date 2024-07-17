@@ -7,4 +7,4 @@ to serve as a library for quicker and more effective software in further project
 
 ## Overview
 
--timer.h -> Simple timer for cpp Programs.
+- timer.h -> Simple timer for cpp Programs.
